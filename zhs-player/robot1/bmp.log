@@ -1,0 +1,13 @@
+[INFO  2020-10-15T09:24:19,738 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.4 
+[INFO  2020-10-15T09:24:19,780 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2020-10-15T09:24:20,132 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2020-10-15T09:24:20,262 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@0.0.0.0:8080 
+[INFO  2020-10-15T09:24:21,546 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp530696881-18) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2020-10-15T09:24:21,577 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp530696881-18) Proxy listening with TCP transport 
+[INFO  2020-10-15T09:24:22,229 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp530696881-18) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+[INFO  2020-10-15T09:24:25,555 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-2) (AWAITING_INITIAL) [id: 0x40eb823b, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54569]: Bad Host passport.zhihuishu.com:443 
+[INFO  2020-10-15T09:24:25,555 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-1) (AWAITING_INITIAL) [id: 0x33f6aef3, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54568]: Bad Host passport.zhihuishu.com:443 
+[INFO  2020-10-15T09:24:25,696 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-3) (AWAITING_INITIAL) [id: 0xd1186795, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54570]: Bad Host passport.zhihuishu.com:443 
+[INFO  2020-10-15T09:24:25,697 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-4) (AWAITING_INITIAL) [id: 0x7dd1d478, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54571]: Bad Host passport.zhihuishu.com:443 
+[INFO  2020-10-15T09:24:25,734 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-5) (AWAITING_INITIAL) [id: 0x4d90cf12, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54572]: Bad Host passport.zhihuishu.com:443 
+[INFO  2020-10-15T09:24:25,737 org.littleshoot.proxy.impl.ClientToProxyConnection] (LittleProxy-0-ClientToProxyWorker-6) (AWAITING_INITIAL) [id: 0x2d4b5a50, L:/0:0:0:0:0:0:0:1:8081 - R:/0:0:0:0:0:0:0:1:54573]: Bad Host passport.zhihuishu.com:443 
