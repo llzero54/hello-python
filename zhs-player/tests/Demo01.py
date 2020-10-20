@@ -106,7 +106,6 @@ proxy.new_har(options={'captureContent': True, 'captureHeaders': True})
 
 # 跳转登录地址
 browse.get(ZHS_LOGIN_URL)
-
 # 填写登录信息
 load_page_wait()
 login_username_input = browse.find_element_by_id('lUsername')
